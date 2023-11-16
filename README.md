@@ -20,7 +20,7 @@ jar cvfm Endecript.jar MANIFEST.MF Endecript.class CSecretKey.class
 java -jar Endecript.jar -d 4st9FUkTvsz58/zBRjpa1A+uRmw38jhl/HE=
 ```
 # ¿Como agrego el secret key de manera independiente?
-  __Al ejecutar con la opción <s>-f</s> se indica el nombre del archivo xml que contiene el secret key a utilizar, este debe llevar una estructura específica.__
+  __Al ejecutar con la opción <s>-f</s> (estructura en secretkey.xml) se indica el nombre del archivo xml que contiene el secret key a utilizar, este debe llevar una estructura específica.__
 ```bash
 java -jar Endecript.jar -d 4st9FUkTvsz58/zBRjpa1A+uRmw38jhl/HE= -f secretkey.xml
 ```

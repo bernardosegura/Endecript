@@ -1,6 +1,7 @@
 # <img src="https://github.com/bernardosegura/Endecript/blob/master/logo.png" height="50px" width="50px" /> Endecript
 Es una aplicación multiplataforma para encriptar información con el metodo AES(Advanced Encryption Standard) utilizando el modo GCM (Galios/Counter Mode).
-Se cuenta con una versión ya compilada y empaquetada en jar.
+Se cuenta con una versión ya compilada y empaquetada en [jar](https://github.com/bernardosegura/Endecript/releases/tag/V0.1). 
+
 # ¿Cómo compilar?
   __Para crear las clases__
 ```bash
